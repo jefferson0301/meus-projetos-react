@@ -1,0 +1,44 @@
+.container__meusProjetos{
+    text-align: center;
+}
+
+.container__meusProjetos__projetos{
+    
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1rem;
+    padding: 3%;
+}
+
+.container__meusProjetos__titulo{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0.5rem;
+    font-size: 3rem;
+    color: #00CFF5;
+    border: 5px solid #00CFF5;
+    border-radius: 15px;
+}
+
+.container__meusProjetos__projetos__projeto{
+    margin-top: 1rem;
+    width: 30%;
+    height: 40%;
+    padding: 1%;
+}
+
+@media screen and (max-width: 1224px) {
+
+    .container__meusProjetos__projetos__projeto{
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .container__meusProjetos__projetos__projeto{
+        width: 90%;
+    }
+}

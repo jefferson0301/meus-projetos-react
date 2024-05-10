@@ -1,0 +1,18 @@
+.containerMenu{
+    margin: 2rem 0;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+    border: 3px solid #00CFF5;
+    padding: 0.5rem;
+}
+
+.paginaSelecionada{
+    border: 3px solid #00CFF5;
+}

@@ -1,0 +1,22 @@
+.container__contato{
+    text-align: center;
+    width: 100%;
+    padding: 10% 0;
+}
+
+.container__contato__titulo{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.container__contato__lista{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.container__contato__lista__item{
+    font-size: 1.5rem;
+    list-style: none;
+}

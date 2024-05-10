@@ -1,0 +1,55 @@
+[
+    {"id": 1,
+    "nome": "Meu Curriculo",
+    "descricao" : "O projeto meu currículo mostra um site feito somente com html e css com meu currículo " 
+    },
+    {"id": 2,
+    "nome": "Alura Books",
+    "descricao" : "O projeto Alura Books mostra um site de uma loja de livros feito somente com html e css" 
+    },
+    {"id": 3,
+    "nome": "Alura Plus",
+    "descricao" : "O projeto Alura Plus mostra propagandas dos planos do alura o site feito somente com html e css  " 
+    },
+    {"id": 4,
+    "nome": "Treinando Digitação",
+    "descricao" : "O projeto Treinando Digitação tem como objetivo auxiliar as pessoas a treinarem digitação o site feito somente com html, css e Java Script  " 
+    },
+    {"id": 5,
+    "nome": "Número Secreto",
+    "descricao" : "O projeto Número Secreto é um jogo que o usuário da palpites através da voz e o jogo através do palpite da dicas o projeto foi feito somente com html, css e Java Script " 
+    },
+    {"id": 6,
+    "nome": "Mudas Floresta",
+    "descricao" : "O projeto Mudas Floresta é um site ficticio de vendas de mudas o projeto foi feito somente com html e css " 
+    },
+    {"id": 7,
+    "nome": "Loguin",
+    "descricao" : "O projeto Loguin mostra uma página de loguin um site feito somente com html e css  " 
+    },
+    {"id": 8,
+    "nome": "Calculadora",
+    "descricao" : "O projeto Calculadora mostra uma calculadora com as 4 operações básicas o site feito somente com html, css e Java Script  " 
+    },
+    {"id": 9,
+    "nome": "Loja Natação",
+    "descricao" : "O projeto Loja Natação mostra uma loja de natação o site feito somente com html e css   " 
+    },
+    {"id": 10,
+    "nome": "Focus",
+    "descricao" : "O projeto Focus auxilia o controle de tarefas e repouso das tarefas o site feito somente com html, css e java script  " 
+    },
+    {"id": 11,
+    "nome": "Monibank",
+    "descricao" : "O projeto Monibank é focado em fazer um loguin e salvar a foto do usuário que faz o cadstro o site feito somente com html, css e java script  " 
+    },
+    {"id": 12,
+    "nome": "Organo",
+    "descricao" : "O projeto Organo é focado em fazer um cadastro feito somente com html, css, java script e React " 
+    },
+    {"id": 13,
+    "nome": "Olá mundo router",
+    "descricao" : "O projeto Olá mundo router tem artigos relacionado a computação o site feito somente com html, css, java script e react  " 
+    }
+
+]
